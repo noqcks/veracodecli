@@ -16,5 +16,5 @@ group :development do
   gem "shoulda", "~> 3.5"
   gem "rubocop", "~> 0.48"
   gem "simplecov", "~> 0.10"
-  gem "yard", "~> 0.7"
+  gem "yard", "~> 0.9"
 end
