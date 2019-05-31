@@ -14,7 +14,7 @@ group :development do
   gem "reek", "~> 1.2"
   gem "roodi", "~> 2.1"
   gem "shoulda", "~> 3.5"
-  gem "rubocop", "~> 0.32"
+  gem "rubocop", "~> 0.48"
   gem "simplecov", "~> 0.10"
   gem "yard", "~> 0.9"
 end
